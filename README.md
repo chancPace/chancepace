@@ -109,7 +109,8 @@
 ## 호스트 기능
 
 ### 1. **공간 등록 및 수정**
-![공간 등록](https://github.com/user-attachments/assets/sample-host-register.gif)  
+![공간 등록](https://github.com/user-attachments/assets/161cc171-8acb-42b0-a30f-3e3d307d9b5f)
+![공간 수정](https://github.com/user-attachments/assets/9d620c8a-cb1a-4199-9adb-1bfa8a5550dd)
 호스트는 자신의 공간 정보를 등록하고, 필요 시 수정할 수 있습니다.  
 `kakao map API`를 활용하여 주소 입력 및 위치 설정이 가능합니다. 등록 후 관리자의 승인을 받으면 공간이 플랫폼에 노출됩니다.
 
