@@ -70,6 +70,8 @@
 ## 게스트 기능
 
 ### 1. **공간 검색 및 대여**
+![검색](https://github.com/user-attachments/assets/ac77548a-5e67-4f5f-94b1-0133878bfcc3)
+![공간예약](https://github.com/user-attachments/assets/fd1efaff-26b7-437b-a571-8014ddc8ce45)
 사용자가 원하는 지역과 날짜를 입력하면 조건에 맞는 대여 가능한 공간 목록을 확인할 수 있습니다. 클릭 한 번으로 간편하게 예약과 결제를 진행할 수 있습니다.
 
 ---
