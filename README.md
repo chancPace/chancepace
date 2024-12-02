@@ -70,9 +70,17 @@
 ## 게스트 기능
 
 ### 1. **공간 검색 및 대여**
-- **검색**: ![검색](https://github.com/user-attachments/assets/ac77548a-5e67-4f5f-94b1-0133878bfcc3)
-- **예약**: ![공간예약](https://github.com/user-attachments/assets/fd1efaff-26b7-437b-a571-8014ddc8ce45)
-사용자가 원하는 지역과 날짜를 입력하면 조건에 맞는 대여 가능한 공간 목록을 확인할 수 있습니다. 클릭 한 번으로 간편하게 예약과 결제를 진행할 수 있습니다.
+- **검색**
+  
+  ![검색](https://github.com/user-attachments/assets/ac77548a-5e67-4f5f-94b1-0133878bfcc3)
+
+  사용자가 원하는 지역과 상호명을 입력하면 조건에 맞는 대여 가능한 공간 목록을 확인할 수 있습니다.
+
+- **예약**
+  
+  ![공간예약](https://github.com/user-attachments/assets/fd1efaff-26b7-437b-a571-8014ddc8ce45)
+  
+  클릭 한 번으로 간편하게 예약과 결제를 진행할 수 있습니다.
 
 ---
 
@@ -111,8 +119,14 @@
 ## 호스트 기능
 
 ### 1. **공간 등록 및 수정**
+- **공간 등록**
+  
 ![공간 등록](https://github.com/user-attachments/assets/161cc171-8acb-42b0-a30f-3e3d307d9b5f)
+
+- **공간 수정**
+  
 ![공간 수정](https://github.com/user-attachments/assets/9d620c8a-cb1a-4199-9adb-1bfa8a5550dd)
+
 호스트는 자신의 공간 정보를 등록하고, 필요 시 수정할 수 있습니다.  
 `kakao map API`를 활용하여 주소 입력 및 위치 설정이 가능합니다. 등록 후 관리자의 승인을 받으면 공간이 플랫폼에 노출됩니다.
 
